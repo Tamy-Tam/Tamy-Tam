@@ -1,6 +1,8 @@
 ### 🏺 👣 📚  Tamara's GitHub Profile  📚 👣 🏺 
 
-Hi there 👋 my name is Tamara ROBSON, and I'm a junior fullstack web developeur. I've just finished the 9 weeks intensive bootcamp at Le wagon and am currently seeking new opportunitiesin my chosen field. I love backend stuff and nice pastel designs. 
+Hi there 👋  my name is Tamara ROBSON, and I'm a junior fullstack web developeur. 
+
+I've just finished the 9 weeks intensive bootcamp at Le wagon and am currently seeking new opportunitiesin my chosen field. I love backend stuff and nice pastel designs.
 I currently live in South of France, and am very mobile (I've lived in 9 countries up to now). 
 
 <!--
@@ -18,12 +20,17 @@ Here are some ideas to get you started:
 -->
 
 🌎 My Languages 🌎
-<!-- -->
+
 🇺🇸 English: Native
+
 🇫🇷 French: Native
+
 🇲🇽 Spanish: B1
+
 🇨🇳 Chinese: Basics
+
 🇩🇪 German: notions
+
 🇸🇿 Swahili : notions
 
 
