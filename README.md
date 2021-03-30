@@ -34,3 +34,10 @@ Here are some ideas to get you started:
 🇸🇿 Swahili : notions
 
 
+
+My bootcam projects : 
+UNOTES - A web-app to take notes from tutos on Youtube, we also designed an extension to do the work for you 😉 
+www.unotes.xyz
+
+Castlevania: A web app to rent your great properties such as palaces, manor & castles, as well as discover your next vacations accomodations
+castlevania-demo.herokuapp.com
