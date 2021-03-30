@@ -1,9 +1,9 @@
 <h1 align="center"> 🏺 👣 📚  Tamara's GitHub Profile  📚 👣 🏺 </h1>
 
 <h2 align="center"> Hi there 👋  my name is Tamara ROBSON, </h2>
-<h3 align="center">A passionate fullstack developer from France & England</h3>
+<h3 align="center">A passionate fullstack developer from France & England 👩🏽‍💻</h3>
 
-  I've just finished the 9 weeks intensive bootcamp at Le wagon and am currently seeking new opportunitiesin my chosen field. I love backend stuff and nice pastel designs.
+  I've just finished the 9 weeks intensive bootcamp 👩‍🏫   at [Le Wagon Marseille](https://www.linkedin.com/showcase/le-wagon-marseille/) 🚀 and am currently seeking new opportunities in my chosen field.  I love backend stuff and nice pastel designs.
 I currently live in South of France, and am very mobile (I've lived in 9 countries up to now). 
 
 <!--
@@ -50,7 +50,7 @@ www.unotes.xyz
 https://castlevania-demo.herokuapp.com
 
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">💬 Where to find me::</h3>
 <p align="left">
 <a href="https://linkedin.com/in/tamara robson" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="tamara robson" height="30" width="40" /></a>
 </p> 
