@@ -40,12 +40,12 @@ Here are some ideas to get you started:
 
 My web bootcamps projects : 
 
-UNOTES - A web-app to take notes from tutos on Youtube, we also designed an extension to do the work for you 😉 
+* UNOTES - A web-app to take notes from tutos on Youtube, we also designed an extension to do the work for you 😉 
 
 www.unotes.xyz
 
 
-Castlevania: A web app to rent your great properties such as palaces, manor & castles, as well as discover your next vacations accomodations
+* Castlevania: A web app to rent your great properties such as palaces, manor & castles, as well as discover your next vacations accomodations
 
 https://castlevania-demo.herokuapp.com
 
