@@ -1,4 +1,4 @@
-<h1 align="center"> ### 🏺 👣 📚  Tamara's GitHub Profile  📚 👣 🏺 </h1>
+<h1 align="center"> 🏺 👣 📚  Tamara's GitHub Profile  📚 👣 🏺 </h1>
 
 <h2 align="center"> Hi there 👋  my name is Tamara ROBSON, </h2>
 <h3 align="center">A passionate fullstack developer from France & England</h3>
