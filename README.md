@@ -3,7 +3,7 @@
 <h2 align="center"> Hi there 👋  my name is Tamara ROBSON, </h2>
 <h3 align="center">A passionate fullstack developer from France & England 👩🏽‍💻</h3>
 
-  I've just finished the 9 weeks intensive bootcamp 👩‍🏫   at [Le Wagon Marseille](https://www.linkedin.com/showcase/le-wagon-marseille/) 🚀 and am currently seeking new opportunities in my chosen field.  I love backend stuff and nice pastel designs.
+  I finished the 9 weeks intensive bootcamp in 2021👩‍🏫   at [Le Wagon Marseille](https://www.linkedin.com/showcase/le-wagon-marseille/) 🚀 and am currently working for a small tech company going by the name [Dev-id](https://www.dev-id.fr/), and really enjoy my chosen field.  I love backend stuff and nice pastel designs.
 I currently live in South of France, and am very mobile (I've lived in 9 countries up to now). 
 
 <!--
